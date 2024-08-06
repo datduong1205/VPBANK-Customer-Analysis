@@ -1,6 +1,6 @@
 # VPBANK Customer Analysis Report
 
-You can visit interactive dashboard [here](https://public.tableau.com/app/profile/dat.duong8454/viz/VPBANKReport/BANKREPORTDASHBOARD).
+You can visit the interactive dashboard [here](https://public.tableau.com/app/profile/dat.duong8454/viz/VPBANKReport/BANKREPORTDASHBOARD).
 
 ## Description
 Customer analysis involves examining various customer data points to gain insights into customer behavior, preferences, and demographics. This process helps businesses understand their customers better, leading to more informed decision-making and improved customer satisfaction. Effective customer analysis can identify trends, predict future behaviors, and ultimately drive business growth by targeting the right customers with the right products or services.
